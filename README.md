@@ -47,4 +47,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * The mean and standard deviation columns are extracted using grep
 * The activity ids are substituted with the descriptive activity names
 * The column labels are cleaned up to be more user friendly
-* Finally a tidy data set is created by aggregating based on subject and activity
+* Finally a tidy data set is created by aggregating based on subject and activity.  The final output is written into data_tidy.txt
